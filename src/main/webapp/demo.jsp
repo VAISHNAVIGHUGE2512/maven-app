@@ -1,4 +1,4 @@
-<html>  
+<html>
 <body> 
 <% out.print("welcome to jsp") %>  
 </body>  
